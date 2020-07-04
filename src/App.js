@@ -1,12 +1,18 @@
 import React from 'react';
-import './App.css';
+import Header from './component/Header';
+import Summery from "./component/Summery";
+import Footer from './component/Footer';
+import Skills from './component/Skills';
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello Mohammad</h1>
-    </div>
-  );
+    return (
+      <div>
+        <Header />
+        <Summery />
+        <Skills />
+        <Footer />
+      </div>
+    );
 }
 
 export default App;
