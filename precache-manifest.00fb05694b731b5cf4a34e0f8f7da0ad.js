@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29adca4cb4eb6bd40b770e2461faf311",
+    "revision": "d534230ca3093c183894f37fbe994ac9",
     "url": "/haddad/index.html"
   },
   {
-    "revision": "17c3612d247f71e21df4",
+    "revision": "e80cfac54223301f6885",
     "url": "/haddad/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haddad/static/js/2.aa633ab9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17c3612d247f71e21df4",
-    "url": "/haddad/static/js/main.b07d01ee.chunk.js"
+    "revision": "e80cfac54223301f6885",
+    "url": "/haddad/static/js/main.f3736b7b.chunk.js"
   },
   {
     "revision": "38be8213f43811e86d8a",

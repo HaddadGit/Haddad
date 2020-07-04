@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/haddad/static/css/main.5f361e03.chunk.css",
-    "main.js": "/haddad/static/js/main.b07d01ee.chunk.js",
-    "main.js.map": "/haddad/static/js/main.b07d01ee.chunk.js.map",
+    "main.js": "/haddad/static/js/main.f3736b7b.chunk.js",
+    "main.js.map": "/haddad/static/js/main.f3736b7b.chunk.js.map",
     "runtime-main.js": "/haddad/static/js/runtime-main.95143c01.js",
     "runtime-main.js.map": "/haddad/static/js/runtime-main.95143c01.js.map",
     "static/js/2.aa633ab9.chunk.js": "/haddad/static/js/2.aa633ab9.chunk.js",
     "static/js/2.aa633ab9.chunk.js.map": "/haddad/static/js/2.aa633ab9.chunk.js.map",
     "index.html": "/haddad/index.html",
-    "precache-manifest.1ba032b421ecb1324ece09a55aff7ff2.js": "/haddad/precache-manifest.1ba032b421ecb1324ece09a55aff7ff2.js",
+    "precache-manifest.00fb05694b731b5cf4a34e0f8f7da0ad.js": "/haddad/precache-manifest.00fb05694b731b5cf4a34e0f8f7da0ad.js",
     "service-worker.js": "/haddad/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/haddad/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.aa633ab9.chunk.js.LICENSE.txt": "/haddad/static/js/2.aa633ab9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95143c01.js",
     "static/js/2.aa633ab9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b07d01ee.chunk.js"
+    "static/js/main.f3736b7b.chunk.js"
   ]
 }
