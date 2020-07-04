@@ -3,7 +3,7 @@ import icon from './img/icon/favicon-32x32.png'
 function Header() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-            <a className="navbar-brand" href="#"><img src={icon} alt="icon" /></a>
+            <a className="navbar-brand" href="#topPage"><img src={icon} alt="icon" /></a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
                 </button>
@@ -22,12 +22,12 @@ function Header() {
                     </ul>
                 <ul className="nav navbar-nav navbar-right">
                     <li className="nav-item mr-sm-2">
-                        <a target='_blank' className="nav-link " href="https://github.com/HaddadGit"> 
+                        <a target='_blank' rel="noopener noreferrer" className="nav-link " href="https://github.com/HaddadGit"> 
                             <i className="fab fa-github-square fa-2x text-info"></i>
                             </a>
                         </li>
                     <li className="nav-item mr-sm-2">
-                        <a target='_blank' className="nav-link " href="https://www.linkedin.com/in/mohammad-haddad-336681ab/">
+                        <a target='_blank' rel="noopener noreferrer" className="nav-link " href="https://www.linkedin.com/in/mohammad-haddad-336681ab/">
                             <i className="fab fa-linkedin fa-2x text-info"></i>
                             </a>
                         </li>

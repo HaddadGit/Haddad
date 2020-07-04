@@ -11,7 +11,7 @@ function WorkSamplesImage (props) {
 
   return (
     <div className={mainClass}>
-      <a href={href} target="_blank">
+      <a href={href} target="_blank" rel="noopener noreferrer">
         <img src={srcImage} alt={altImage} className='CursolImageSize' />
         <div className="carousel-caption">
           <h3 className='bg-light text-dark'>{titleImage}</h3>
