@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/haddad/static/css/main.5f361e03.chunk.css",
-    "main.js": "/haddad/static/js/main.f3736b7b.chunk.js",
-    "main.js.map": "/haddad/static/js/main.f3736b7b.chunk.js.map",
+    "main.js": "/haddad/static/js/main.05b2a16d.chunk.js",
+    "main.js.map": "/haddad/static/js/main.05b2a16d.chunk.js.map",
     "runtime-main.js": "/haddad/static/js/runtime-main.95143c01.js",
     "runtime-main.js.map": "/haddad/static/js/runtime-main.95143c01.js.map",
-    "static/js/2.aa633ab9.chunk.js": "/haddad/static/js/2.aa633ab9.chunk.js",
-    "static/js/2.aa633ab9.chunk.js.map": "/haddad/static/js/2.aa633ab9.chunk.js.map",
+    "static/js/2.200bab83.chunk.js": "/haddad/static/js/2.200bab83.chunk.js",
+    "static/js/2.200bab83.chunk.js.map": "/haddad/static/js/2.200bab83.chunk.js.map",
     "index.html": "/haddad/index.html",
-    "precache-manifest.00fb05694b731b5cf4a34e0f8f7da0ad.js": "/haddad/precache-manifest.00fb05694b731b5cf4a34e0f8f7da0ad.js",
+    "precache-manifest.bb32c29b977ef10d58270477443edfe5.js": "/haddad/precache-manifest.bb32c29b977ef10d58270477443edfe5.js",
     "service-worker.js": "/haddad/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/haddad/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.aa633ab9.chunk.js.LICENSE.txt": "/haddad/static/js/2.aa633ab9.chunk.js.LICENSE.txt"
+    "static/js/2.200bab83.chunk.js.LICENSE.txt": "/haddad/static/js/2.200bab83.chunk.js.LICENSE.txt",
+    "static/media/BeachHotel.JPG": "/haddad/static/media/BeachHotel.591c7d9c.JPG",
+    "static/media/Css.JPG": "/haddad/static/media/Css.d4733c84.JPG",
+    "static/media/Dice.JPG": "/haddad/static/media/Dice.c4dfa90b.JPG",
+    "static/media/Emojipedia.JPG": "/haddad/static/media/Emojipedia.a4dd6b84.JPG",
+    "static/media/GritBook.JPG": "/haddad/static/media/GritBook.86e99f66.JPG",
+    "static/media/HTML.JPG": "/haddad/static/media/HTML.aa066013.JPG",
+    "static/media/Keeper.JPG": "/haddad/static/media/Keeper.4883e835.JPG",
+    "static/media/Matlab.JPG": "/haddad/static/media/Matlab.94ff1975.JPG",
+    "static/media/MyImg.jpeg": "/haddad/static/media/MyImg.e2372fde.jpeg",
+    "static/media/Python.jpg": "/haddad/static/media/Python.90f892dd.jpg",
+    "static/media/Responsive.JPG": "/haddad/static/media/Responsive.09b0d63d.JPG",
+    "static/media/ToDoList.JPG": "/haddad/static/media/ToDoList.c9022f32.JPG",
+    "static/media/js.JPG": "/haddad/static/media/js.ef91cce9.JPG",
+    "static/media/serverToDoList.JPG": "/haddad/static/media/serverToDoList.03352031.JPG",
+    "static/media/signIn.JPG": "/haddad/static/media/signIn.8c50ed38.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.95143c01.js",
-    "static/js/2.aa633ab9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f3736b7b.chunk.js"
+    "static/js/2.200bab83.chunk.js",
+    "static/js/main.05b2a16d.chunk.js"
   ]
 }
