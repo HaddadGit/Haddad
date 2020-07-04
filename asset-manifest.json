@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/haddad/static/js/main.05b2a16d.chunk.js",
-    "main.js.map": "/haddad/static/js/main.05b2a16d.chunk.js.map",
+    "main.js": "/haddad/static/js/main.121b4480.chunk.js",
+    "main.js.map": "/haddad/static/js/main.121b4480.chunk.js.map",
     "runtime-main.js": "/haddad/static/js/runtime-main.95143c01.js",
     "runtime-main.js.map": "/haddad/static/js/runtime-main.95143c01.js.map",
     "static/js/2.200bab83.chunk.js": "/haddad/static/js/2.200bab83.chunk.js",
     "static/js/2.200bab83.chunk.js.map": "/haddad/static/js/2.200bab83.chunk.js.map",
     "index.html": "/haddad/index.html",
-    "precache-manifest.bb32c29b977ef10d58270477443edfe5.js": "/haddad/precache-manifest.bb32c29b977ef10d58270477443edfe5.js",
+    "precache-manifest.e5c2066ac13dbcc66e76a58920922b74.js": "/haddad/precache-manifest.e5c2066ac13dbcc66e76a58920922b74.js",
     "service-worker.js": "/haddad/service-worker.js",
     "static/js/2.200bab83.chunk.js.LICENSE.txt": "/haddad/static/js/2.200bab83.chunk.js.LICENSE.txt",
     "static/media/BeachHotel.JPG": "/haddad/static/media/BeachHotel.591c7d9c.JPG",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.95143c01.js",
     "static/js/2.200bab83.chunk.js",
-    "static/js/main.05b2a16d.chunk.js"
+    "static/js/main.121b4480.chunk.js"
   ]
 }
